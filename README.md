@@ -6,9 +6,9 @@ An advanced look at substring extraction. Instead of hardcoding indices, this pr
 ## 📋 Requirements Compliance
 - **Task**: Extract "gram" from "programming" without guessing indices.
 - **Mechanism**:
-    1. `indexOf("gram")` to find the start.
-    2. `start + length()` to find the end.
-    3. `substring(start, end)` for extraction.
+  - `indexOf("gram")` to find the start.
+  - `start + length()` to find the end.
+  - `substring(start, end)` for extraction.
 
 ## 🚀 Architectural Stack
 - Java 8+
